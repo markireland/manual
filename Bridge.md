@@ -34,6 +34,12 @@ TODO
 #### FL Studio
 TODO
 
+#### BandLab Sonar
+TODO
+
+#### Propellerhed Reason
+TODO
+
 #### Propellerhead Reason
 TODO
 
