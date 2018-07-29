@@ -43,7 +43,7 @@ TODO
 TODO
 
 ### Propellerhead Reason
-TODO
+Launch VCV Rack first, switch its audio output device to Bridge, and then launch Reason and instantiate Bridge as a VST.
 
 ### REAPER
 TODO
